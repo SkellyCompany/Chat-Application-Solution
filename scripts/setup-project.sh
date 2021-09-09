@@ -1,4 +1,6 @@
-cd ../ChatApplication
+cd ..
+mkdir ChatApplication
+cd ChatApplication
 
 ### Pull Web App
 git clone git@github.com:Skelly-Co/Chat-Application-Web.git Web
